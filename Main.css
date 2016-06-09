@@ -1,15 +1,19 @@
 #body {
+    font-family: 'Indie Flower', cursive;
     background-color: black;
     color: gray;
 }
 
 #l1 {
+    font-family: 'Oswald', sans-serif;
     color: blue;
 }
 #l2 {
+    font-family: 'Shadows Into Light', cursive;
    color: purple;
 } 
 
 #l3 {
+    font-family: 'Lobster', cursive;
     color: green;
 }

@@ -1,7 +1,10 @@
 #body {
+    font-size: 20px;
     font-family: 'Indie Flower', cursive;
     background-color: black;
     color: gray;
+    background-image: url(img/orca-pod.jpg);
+    background-position: center;
 }
 
 #l1 {

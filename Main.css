@@ -1,15 +1,15 @@
-#body {
+#body,.ul{
     font-size: 20px;
     font-family: 'Indie Flower', cursive;
     background-color: black;
-    color: gray;
+    color: #5e42a6;
     background-image: url(img/orca-pod.jpg);
-    background-position: center;
+    background-position: cover;
 }
 
 #l1 {
     font-family: 'Oswald', sans-serif;
-    color: blue;
+    color: #ffffff;
 }
 #l2 {
     font-family: 'Shadows Into Light', cursive;
@@ -18,5 +18,17 @@
 
 #l3 {
     font-family: 'Lobster', cursive;
-    color: green;
+    color: #91ee3f;
+}
+
+.ul {
+    text-align: center;
+}
+
+a {
+    color: orange;
+}
+a:hover {
+    background-color: black;
+    color: orange;
 }

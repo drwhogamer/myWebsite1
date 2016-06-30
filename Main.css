@@ -1,34 +1,25 @@
 #body,.ul{
     font-size: 20px;
     font-family: 'Indie Flower', cursive;
-    background-color: black;
-    color: #5e42a6;
-    background-image: url(img/orca-pod.jpg);
-    background-position: cover;
+    background-color: #4a646c;
+    color: #e6ac00;
+    background-image: url(img/legendofzelda.jpg);
+    background-position: top;
+    background-size: cover;
 }
 
 #l1 {
-    font-family: 'Oswald', sans-serif;
-    color: #ffffff;
+    color:  #000000;
 }
 #l2 {
-    font-family: 'Shadows Into Light', cursive;
-   color: purple;
+   color:   #008000;
 } 
 
 #l3 {
-    font-family: 'Lobster', cursive;
-    color: #91ee3f;
+    color: #b35900;
 }
 
 .ul {
-    text-align: center;
-}
-
-a {
-    color: orange;
-}
-a:hover {
-    background-color: black;
-    color: orange;
+    text-align: left;
+    text-shadow: bold;
 }
